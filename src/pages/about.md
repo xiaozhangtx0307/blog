@@ -1,36 +1,29 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+我是「小张」，一个基层守望者。
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## 我的人生信念
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+- 守时
+- 做正确的事，正确地做事
+- 凡事有交代，件件有着落，事事有回音
+- 再想多一点，再做多一点
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+- 向内求，遵照内在记分牌
+- 人生是一场无限游戏，多做正和游戏
+- 留有余闲，具备应对风险的能力
+- 可持续发展，追求有复利更久期的增长
 
-## Tech Stack
+- 对自己诚实
+- 保持善良和利他
+- 保持情绪稳定，非暴力沟通
+- 坚持运动，定期身体检查
+- 缩小 ego，关注生活，提升幸福感
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+- 和问题共处，聚焦关键问题
+- 大事充分准备，小事快速决策
+- 保持学习和思考，持续记录和写作
 
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+所有的努力都是为了拥有更多选择的权利，选择在哪生活，选择做什么样的事，选择和什么样的人一起工作。
